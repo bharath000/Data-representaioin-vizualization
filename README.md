@@ -1,1 +1,1 @@
-# Data-representaioin-vizualization
+# Data-representation and vizualization
